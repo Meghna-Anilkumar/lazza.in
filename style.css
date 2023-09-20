@@ -1,0 +1,197 @@
+@font-face{
+    font-family: lazzaa;
+    src: url(OpenSansCondensed-Light.ttf);
+}
+body{
+
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color:black;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    position: fixed;
+}
+.logo{
+    
+    margin: 0;
+    width: 25%;
+    height: 100px;
+   
+
+}
+.lazza{
+    width: 120px;
+    height: 60px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.Menu{
+    
+    
+    width:55%;
+    height: 100px;
+    word-spacing: 10px;
+}
+.menulinks{
+    align-items: end;
+   padding-left: 343px;
+    padding-top: 20px; 
+} 
+.list1{
+    color: white;
+    list-style: none;
+    text-transform:uppercase;
+    font-weight:lighter;
+    text-align: right;
+    display: inline-block;
+    margin: 10px 3px;
+    font-weight: 400;
+    font-family: lazzaa;
+} 
+.list1:hover{
+    cursor: pointer;
+}
+.pics{
+    padding-top: 45px;
+    padding-left: 54px;
+
+} 
+.pic{
+    width: 24px;
+    margin-right: 20px;
+
+}
+.box1{
+    background-image: url(imglazza/box1img.jpg);
+    background-size: cover;
+    width:1263.3px;
+    height: 598.76px;
+}
+.null{
+    width:100%;
+    height: 100px;
+}
+.box2{
+    
+    width:100%;
+    height: 200px;
+}
+h1{
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 43px;
+    font-size: 50px;
+    font-weight: 300;
+}
+.container{
+    
+    height: 600px;
+    width: 100%;
+    font-family: lazzaa;
+}
+.container div{
+    display: flex;
+    justify-content: space-around;
+}
+figure{
+    text-align: center;
+}
+figure img{
+    height: 263px;
+}
+figure img:hover{
+
+    cursor: pointer;
+}
+.image7{
+    
+    height: 450px;
+    
+}
+.img7{
+    height: 263px;
+    padding-top:50px;
+}
+h4{
+    margin: 0px;
+    padding-left: 95px;
+    font-weight: 500;
+    font-family: lazzaa;
+}
+.awesome{
+    width: 1263px;
+    height: 195px;
+    margin-bottom: -4px;
+}
+.footer{
+    background-color: black;
+    width:100%;
+    height: 200px;
+    display: flex;
+    margin-bottom: 1px;
+}
+.foot1{
+    width:19%;
+    height: 200px;
+    
+}
+.foot1img1{
+    width:100%;
+    height:200px;
+    scale:0.6;
+}
+.foot2{
+    
+    font-family: lazzaa;
+    color: #be9509;
+    height: 200px;
+    width: 60%;
+    display: flex;
+    text-align: left;
+    justify-content: space-between; 
+    line-height: 30px;
+    
+}
+.foot2 div:hover{
+    cursor:pointer;
+
+}
+.Top{
+    list-style: none;      
+}
+.Heading{
+    font-weight:bolder;
+}
+.data{
+    font-weight:700;
+}
+.logos{
+    scale: .7;
+    margin: -7px;
+   
+    
+}
+.contactimg{
+    width: 35px;
+    
+}
+.foot3-img{
+   
+    padding: 19px 56px;
+}
+.copyright{
+    background-color: black;
+    padding: 20px 49px;
+}
+.copyright a{
+    text-decoration: none;
+    font-size: 17px;
+    color: #be9509;
+    font-weight: 200;
+}
+
+
+
